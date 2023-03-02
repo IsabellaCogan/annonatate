@@ -22,7 +22,7 @@ order: 2
         "selector": {
             "type": "FragmentSelector",
             "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=-2620.233154296875,2096.221435546875,1086.8619384765625,744.02587890625"
+            "value": "xywh=3032.90771484375,2497.412109375,1086.8619384765625,744.02587890625"
         },
         "dcterms:isPartOf": {
             "id": "https://isabellacogan.github.io/annonatate/img/derivatives/iiif/KICImage25jpg/manifest.json",
