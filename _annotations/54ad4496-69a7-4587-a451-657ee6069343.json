@@ -1,0 +1,31 @@
+---
+canvas: "https://isabellacogan.github.io/annonatate/images/KICImage24.jpg"
+order: 2
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Lizard",
+            "purpose": "tagging",
+            "creator": {
+                "id": "IsabellaCogan",
+                "name": "IsabellaCogan"
+            },
+            "created": "2023-03-02T15:34:39.143Z",
+            "modified": "2023-03-02T15:34:40.994Z"
+        }
+    ],
+    "target": {
+        "source": "https://isabellacogan.github.io/annonatate/images/KICImage24.jpg",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=-2715.06005859375,3572.42041015625,1254.632568359375,1145.216796875"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "54ad4496-69a7-4587-a451-657ee6069343.json",
+    "motivation": "commenting"
+}
