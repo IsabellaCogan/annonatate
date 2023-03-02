@@ -22,7 +22,7 @@ order: 1
         "selector": {
             "type": "FragmentSelector",
             "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=-2736.943115234375,2142.72216796875,1028.5067138671875,984.74072265625"
+            "value": "xywh=3536.219482421875,465.015869140625,1028.5067138671875,984.74072265625"
         }
     },
     "@context": "http://www.w3.org/ns/anno.jsonld",
