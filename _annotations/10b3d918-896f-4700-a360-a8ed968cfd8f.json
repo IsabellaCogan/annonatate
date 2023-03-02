@@ -1,0 +1,35 @@
+---
+canvas: "https://isabellacogan.github.io/annonatate/img/derivatives/iiif/KICImage25jpg/canvas/KICImage25jpg-1"
+order: 2
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Bird",
+            "purpose": "tagging",
+            "creator": {
+                "id": "IsabellaCogan",
+                "name": "IsabellaCogan"
+            },
+            "created": "2023-03-02T15:31:56.261Z",
+            "modified": "2023-03-02T15:31:56.961Z"
+        }
+    ],
+    "target": {
+        "source": "https://isabellacogan.github.io/annonatate/img/derivatives/iiif/KICImage25jpg/canvas/KICImage25jpg-1",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=-2620.233154296875,2096.221435546875,1086.8619384765625,744.02587890625"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://isabellacogan.github.io/annonatate/img/derivatives/iiif/KICImage25jpg/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "10b3d918-896f-4700-a360-a8ed968cfd8f.json",
+    "motivation": "commenting"
+}
