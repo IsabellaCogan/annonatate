@@ -1,0 +1,35 @@
+---
+canvas: "https://isabellacogan.github.io/annonatate/img/derivatives/iiif/KICImage25jpg/canvas/KICImage25jpg-1"
+order: 3
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Rabbit",
+            "purpose": "tagging",
+            "creator": {
+                "id": "IsabellaCogan",
+                "name": "IsabellaCogan"
+            },
+            "created": "2023-03-02T15:32:48.197Z",
+            "modified": "2023-03-02T15:32:50.732Z"
+        }
+    ],
+    "target": {
+        "source": "https://isabellacogan.github.io/annonatate/img/derivatives/iiif/KICImage25jpg/canvas/KICImage25jpg-1",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=-1795.9686279296875,5400.57275390625,1108.7448120117188,736.73291015625"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://isabellacogan.github.io/annonatate/img/derivatives/iiif/KICImage25jpg/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "1b78ac7b-b27d-46c3-afed-846425aa72d3.json",
+    "motivation": "commenting"
+}
